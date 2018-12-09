@@ -1,0 +1,8 @@
+[08-Jul-2018 22:51:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/grtstore/blog/vendor/symfony/http-foundation/Response.php on line 491
+[08-Jul-2018 22:51:53 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[08-Jul-2018 22:55:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/grtstore/blog/vendor/symfony/http-foundation/Response.php on line 491
+[08-Jul-2018 22:55:12 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[08-Jul-2018 22:57:09 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/grtstore/blog/vendor/symfony/http-foundation/Response.php on line 491
+[08-Jul-2018 22:57:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[08-Jul-2018 22:59:28 UTC] PHP Parse error:  syntax error, unexpected '?' in /home2/grtstore/blog/vendor/symfony/http-foundation/Response.php on line 491
+[08-Jul-2018 22:59:28 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
